@@ -1,6 +1,6 @@
 👨‍💻 Sobre mim
 
-🎓  Sou um aluno na Universidade UNOPAR Arapongas no Curso Analise e Desenvolvimento de Sistemas
+🎓  Sou um Aluno na Universidade UNOPAR Arapongas no Curso Analise e Desenvolvimento de Sistemas
 
 🎓  Experiência
 
