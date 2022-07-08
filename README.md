@@ -1,22 +1,6 @@
-👨‍💻 Sobre mim
-
-🎓  Sou um Aluno na Universidade UNOPAR Arapongas no Curso Analise e Desenvolvimento de Sistemas
-
-🎓  Experiência
-
-👨🏼‍💻   JAVA 
-
-👨🏼‍💻   Spring-Tool
-
-👨🏼‍💻   Angular
-
-
-Contatos:
-
-Gmail: Romarioribeirodev@gmail.com
-
-Linkedin: https://www.linkedin.com/in/r
-om%C3%A1rio-ribeiro-
-5526061ab/
-
-Celular : 43 99802-6002
+## Olá! Eu sou Romário Ribeiro
+<div >
+  <a href="https://github.com/RomarioRibeiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RomarioRibeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomarioRibeiro&layout=compact&langs_count=7&theme=dark"/>
+</div>
